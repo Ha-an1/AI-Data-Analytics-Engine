@@ -298,10 +298,10 @@ The app will open at `http://localhost:8501`.
 
 | Mode | Description |
 |------|-------------|
-| ** Eval Inference** | Run the model on the held-out 15% eval set. Check "Auto-retrain" to trigger the 3-strategy improvement loop if performance is below threshold |
-| ** Manual Input** | Enter comma-separated feature values to predict a single row |
-| ** Batch Upload** | Upload a CSV to get predictions for all rows |
-| ** Experiment History** | View all retraining attempts, strategies, and scores |
+| **Eval Inference** | Run the model on the held-out 15% eval set. Check "Auto-retrain" to trigger the 3-strategy improvement loop if performance is below threshold |
+| **Manual Input** | Enter comma-separated feature values to predict a single row |
+| **Batch Upload** | Upload a CSV to get predictions for all rows |
+| **Experiment History** | View all retraining attempts, strategies, and scores |
 
 ---
 

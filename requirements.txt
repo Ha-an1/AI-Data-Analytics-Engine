@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+streamlit
+sqlalchemy
+shap
+xgboost
+lightgbm
+imbalanced-learn
+python-dotenv
+requests
+joblib

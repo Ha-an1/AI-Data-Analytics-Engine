@@ -1,0 +1,37 @@
+# ── Environment & Secrets ──
+.env
+*.env.*
+
+# ── Python ──
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+venv/
+env/
+.venv/
+
+# ── Database ──
+*.db
+*.sqlite3
+
+# ── Model Artifacts ──
+trained_models/
+eval_data/
+exports/
+data/
+
+# ── IDE ──
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ── OS ──
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Gemini/Agent ──
+.gemini/
+.agents/

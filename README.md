@@ -6,23 +6,6 @@ Upload any dataset, describe your goal in plain English, and the system handles 
 
 ---
 
-##  Table of Contents
-
-- [Project Summary](#-project-summary)
-- [Key Features](#-key-features)
-- [System Architecture](#-system-architecture)
-- [Project Structure](#-project-structure)
-- [Technologies Used](#-technologies-used)
-- [Setup & Installation](#-setup--installation)
-- [Environment Configuration](#-environment-configuration)
-- [Running the Application](#-running-the-application)
-- [Usage Guide](#-usage-guide)
-- [Power BI Integration](#-power-bi-integration)
-- [Database Schema](#-database-schema)
-- [How It Works](#-how-it-works)
-
----
-
 ##  Project Summary
 
 The AI Data Analytics Engine is a **production-grade autonomous ML pipeline** designed to:

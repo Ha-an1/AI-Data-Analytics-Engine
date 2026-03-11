@@ -279,9 +279,9 @@ The app will open at `http://localhost:8501`.
    - *"Forecast daily sales across stores using historical data"*
    - *"Detect anomalies in transaction data"*
 3. **Choose mode:**
-   - ** LLM Auto-Detect** — Gemini analyzes the dataset and determines task, target, and metrics
+   - **LLM Auto-Detect** — Gemini analyzes the dataset and determines task, target, and metrics
    - **Manual** — Manually select task type and target column
-4. Click ** Run Pipeline**
+4. Click **Run Pipeline**
 5. The system will:
    - Detect leaky columns and drop them
    - Generate time-series features (if applicable)
